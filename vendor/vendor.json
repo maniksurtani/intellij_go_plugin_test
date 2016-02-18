@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "golang.org/x/text/cases",
+			"revision": "07b9a78963006a15c538ec5175243979025fa7a8",
+			"revisionTime": "2016-02-11T19:16:47+11:00"
+		},
+		{
+			"path": "golang.org/x/text/internal/tag",
+			"revision": "07b9a78963006a15c538ec5175243979025fa7a8",
+			"revisionTime": "2016-02-11T19:16:47+11:00"
+		},
+		{
+			"path": "golang.org/x/text/language",
+			"revision": "07b9a78963006a15c538ec5175243979025fa7a8",
+			"revisionTime": "2016-02-11T19:16:47+11:00"
+		},
+		{
+			"path": "golang.org/x/text/transform",
+			"revision": "07b9a78963006a15c538ec5175243979025fa7a8",
+			"revisionTime": "2016-02-11T19:16:47+11:00"
+		},
+		{
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "07b9a78963006a15c538ec5175243979025fa7a8",
+			"revisionTime": "2016-02-11T19:16:47+11:00"
+		}
+	]
+}
